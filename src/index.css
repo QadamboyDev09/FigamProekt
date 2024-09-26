@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.active{
+    color: rgb(215, 173, 4);
+}
+#bgimgs{
+    background-image: url(../public/bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 720px;
+}
+#puple{
+    background-image: url(../public/close-up-photography-of-man-wearing-sunglasses-1212984@2x.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 705px;
+    width: 1190px;
+    margin-top: 170px;
+    z-index: 0;
+
+}
